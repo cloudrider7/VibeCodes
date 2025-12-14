@@ -1,4 +1,4 @@
-# S-Type (Gradius III Clone)
+# S-Type (Gradius Clone)
 
 *This is a project coded almost entirely by Antigravity, to see how capable it is at taking human-readable chat prompts and translating them into actionable code.*
 
