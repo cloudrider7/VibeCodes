@@ -1,5 +1,7 @@
 # S-Type (Gradius III Clone)
 
+*This is a project coded almost entirely by Antigravity, to see how capable it is at taking human-readable chat prompts and translating them into actionable code.*
+
 **S-Type** is a high-fidelity recreation of the classic *Gradius III* mechanics, built with Python and Pygame CE. It aims to capture the precise feel of the Vic Viper's movement, weapon systems, and power-up mechanics.
 
 ## 🎮 Current Release: Alpha 0.2
